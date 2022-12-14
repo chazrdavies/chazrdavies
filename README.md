@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **chazrdavies/chazrdavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
-<html>
-  <h1> Chaz Davies <h1>
+<!DOCTYPE html>
 
-<html>
+<html lang="en">
+    <h1>Chaz Davies</h1>
+
+    <p>I am a third year student at Dalhousie University studying Computer Science and with a minor in Mathematics. I also have a diploma in Engineering.</p>
+
+</html>
