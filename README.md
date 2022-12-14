@@ -16,11 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<!DOCTYPE html>
+ <h1>Chaz Davies</h1>
 
-<html lang="en">
-    <h1>Chaz Davies</h1>
+ <p>I am a third year student at Dalhousie University studying Computer Science and with a minor in Mathematics. I also have a diploma in Engineering.</p>
 
-    <p>I am a third year student at Dalhousie University studying Computer Science and with a minor in Mathematics. I also have a diploma in Engineering.</p>
-
-</html>
