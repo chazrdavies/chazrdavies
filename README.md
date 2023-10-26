@@ -4,19 +4,16 @@
 **chazrdavies/chazrdavies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 
- <h1>Chaz Davies</h1>
+ <h1>Charles (Chaz) Davies</h1>
 
- <p>I am a third year student at Dalhousie University studying Computer Science and with a minor in Mathematics. I also have a diploma in Engineering.</p>
+ <p>I am a third-year student at Dalhousie University studying Computer Science, with a diploma in Engineering.</p>
+
+
+<li>🔭 I’m currently working on an Artificial intelligence for the MANTIS satellite to detect harmful algal blooms in Novascotia from satellite images.</li>
+<li>🌱 I’m currently learning about different NVIDIA Jetson modules and deciding on which one is best suited for the project.</li>
+<li>📫 How to reach me: chazdavies@gmail.com</li>
+<li>😄 Pronouns: He/Him</li>
 
