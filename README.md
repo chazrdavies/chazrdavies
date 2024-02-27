@@ -12,6 +12,6 @@ Here are some ideas to get you started:
  <p>I am a third-year student at Dalhousie University studying Computer Science, with a diploma in Engineering. I am interested in Machine learning and data science.</p>
 
 
-<li>📫 How to reach me: chazdavies@gmail.com</li>
-<li>😄 Pronouns: He/Him</li>
+<li> How to reach me: chazdavies@gmail.com</li>
+<li> Pronouns: He/Him</li>
 
